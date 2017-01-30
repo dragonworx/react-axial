@@ -1,0 +1,25 @@
+{
+  "name": "react-axial",
+  "version": "0.1.2",
+  "description": "React bindings for axial state and behaviour management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "axial",
+    "store",
+    "state",
+    "action"
+  ],
+  "author": "Ali Chamas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragonworx/react-axial.git"
+  },
+  "dependencies": {
+    "axial": "0.2.2"
+  }
+}
