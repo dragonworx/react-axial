@@ -24,7 +24,7 @@
     "url": "https://github.com/dragonworx/react-axial.git"
   },
   "dependencies": {
-    "axial": "^0.9.1"
+    "axial": "*"
   },
   "devDependencies": {
     "babel-loader": "^7.1.2",
